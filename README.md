@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman24-0
-- 👀 I’m interested in ethical hacking tools
-- 🌱 I’m currently learning c++, ethical hacking
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning Frontend development.
 - 📫 How to reach me ...
 My email- dahayataman@gmail.com
 
